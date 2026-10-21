@@ -57,6 +57,7 @@ Step 2. Offset 계산
  
 Step 3. 목표 전압에 보정 적용
 실제로 +5.000V를 출력하고 싶다면:
+
 ![](https://static.wikidocs.net/images/page/456141/image_202610191733.png)
 
 * DAC81416 보정 코드 구현
